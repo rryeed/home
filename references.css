@@ -1,0 +1,36 @@
+ body
+{
+	background-image:url("images/background2.jpg");
+	margin-left:100px;
+	margin-right:100px;
+	text-align:justify;
+	font-family:"Lucida Console", Lucida, Monospace;
+}	
+p
+{
+	font-weight:bold;
+}
+p, ul
+{
+	font-size:20px;
+}
+h1
+{
+	text-align:center;
+	font-size: 40px;
+}	
+nav
+{
+	text-align:center;
+}
+img
+{
+	border: 4px solid black;
+	display:block;
+	margin:auto;
+	border-style:inset;
+}	
+ul
+{
+	text-align:left;
+}	
