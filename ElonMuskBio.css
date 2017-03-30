@@ -1,0 +1,58 @@
+body
+{
+	text-align:justify;
+	background-image:url("images/background2.jpg");
+	border: 5px solid black;
+	border-style:double;
+	font-family:"Lucida Console", Lucida, Monospace;	
+}
+h1, h2, h3
+{
+	text-align:center;
+	margin-left:100px;
+	margin-right:100px;
+}
+img
+{
+	border: 2px	solid black;
+	display:block;
+	margin:auto;
+	border-style:inset;	
+}
+figure
+{
+	text-align:center;
+}
+nav
+{
+	text-align:center;
+	margin-left:100px;
+	margin-right:100px;	
+}
+p.second, ul.first 
+{
+	text-align:justify;
+	margin-left:100px;
+	margin-right:100px;
+}	
+span.facts
+{
+	font-weight:bold;	
+}	
+h1
+{
+	font-size:40px;
+}
+ul
+{
+	text-align:justify;
+	margin-left:100px;
+	margin-right:100px;	
+}
+h3
+{
+	text-align:left;
+}	
+			
+
+	
